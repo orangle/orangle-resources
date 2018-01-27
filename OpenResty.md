@@ -58,5 +58,5 @@
 
 ## 资源集合
 + [Nginx Resources](https://github.com/fcambus/nginx-resources) 这也是git上的一个项目，各种nginx相关的资源链接
-+ [awesome-resty](http://getawesomeness.com/get/openresty)  openresty 扩展的lua模块等资源的列表
++ [awesome-resty](https://github.com/bungle/awesome-resty)  openresty 扩展的lua模块等资源的列表
 + [skill-map 学习资源](https://github.com/TeamStuQ/skill-map/issues/29) stuq issues 收集资源和框架
